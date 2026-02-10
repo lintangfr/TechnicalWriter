@@ -1,4 +1,5 @@
 # TechnicalWriter
+```mermaid
 flowchart TD
     Start([START]) --> A[Cek Kondisi Rem]
     A --> B{Rem Normal?}
